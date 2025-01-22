@@ -1,0 +1,25 @@
+{
+    "token": "Put Your Bot Token Here",
+    "prifix": "!",
+    "staffRoomIdd": "",
+    "vacationRoomId": "",
+    "staffRoleId": "",
+    "highstaffRoleId": "",
+    "ownerRoleId": "",
+    "byServiceId": "",
+    
+    "clientId": "Your Bot id",
+    "guildId": "Your Server id",
+
+    
+
+    
+
+
+    "embedColor": "#0000ff",
+    "embedDesc": "** لتسجيل الدخول قم بضغط على زر تسجيل الدخول واذا اردت تسجيل الخروج قم بالضغط على زر تسجيل الخروج **",
+    "embedTitle": "** تسجيل دخول وخروج الاداره **",
+    "embedTumb": "https://cdn.discordapp.com/attachments/1260937941233041419/1273608488186019871/removal.ai_f9a53dda-adf3-4887-b6b8-c6d9337dd7be-rc_logo_1.png?ex=66d8f116&is=66d79f96&hm=ad89e096b4281e45fbf133cdf9ed8d716f245a28107f0174be6df15ff06a5eb3&",
+    "embedImg": "https://cdn.discordapp.com/attachments/1260937941233041419/1273485229524258942/Screenshot_2024-08-15_073332.png?ex=66d9270a&is=66d7d58a&hm=db068a6f9470f0b7d949e57e38a8e329ec9888b54bbba130b4c6151fece19dbf&"
+    
+}
